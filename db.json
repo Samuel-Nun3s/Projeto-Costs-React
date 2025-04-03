@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "76a6",
-      "name": "Meu segundo projeto",
-      "budget": "7000",
+      "name": "Meu primeiro projeto atualizado",
+      "budget": "50000",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []
