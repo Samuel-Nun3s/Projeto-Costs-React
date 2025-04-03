@@ -8,13 +8,25 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 100,
+      "cost": 900,
       "services": [
         {
           "name": "Meu primeiro serviço",
           "cost": "100",
           "id": "75a968f0-723c-45b5-a5a9-bfb3c233ce95",
           "description": "Teste"
+        },
+        {
+          "name": "Teste",
+          "cost": "400",
+          "description": "Desenvolver",
+          "id": "d7692bac-2c26-44e7-8666-5c64445cdf8f"
+        },
+        {
+          "name": "Teste 2",
+          "cost": "400",
+          "description": "Desenvolver",
+          "id": "0e60f5ab-7b13-4965-871f-b050d6777605"
         }
       ]
     }
