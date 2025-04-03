@@ -8,8 +8,15 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": []
+      "cost": 100,
+      "services": [
+        {
+          "name": "Meu primeiro serviço",
+          "cost": "100",
+          "id": "75a968f0-723c-45b5-a5a9-bfb3c233ce95",
+          "description": "Teste"
+        }
+      ]
     }
   ],
   "categories": [
